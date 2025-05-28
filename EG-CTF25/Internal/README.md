@@ -13,7 +13,7 @@
 
 Payload:
 
-![[Host.png]]
+![Testing the payload using host command](Host.png "Testing the payload using host command")
 
 Flag:
 ![Flag](Flag.png "Flag")
